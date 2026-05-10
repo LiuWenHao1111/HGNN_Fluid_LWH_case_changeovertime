@@ -1,0 +1,13 @@
+{
+  "variant_name": "dslfmae_like_baseline",
+  "ablation_cfg": {
+    "use_fluid_mask": true,
+    "use_fluid_state": true,
+    "use_fluid_reward_scale": true
+  },
+  "max_epochs": 2700,
+  "initial_lr": 0.0001,
+  "min_lr": 1e-05,
+  "eval_runs": 30,
+  "stochastic_eval": true
+}

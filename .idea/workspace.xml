@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bae95372-2de4-4be1-92ea-47929d2d3091" name="更改" comment="自己的数据训练，dslfame数据，训练得到训练的表13和图片，没有验证（忘记把原始代码文件加进去了）" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LiuWenHao1111&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:LiuWenHao1111/HGNN_Fluid_LWH.git&quot;,
+    &quot;accountId&quot;: &quot;04b96080-3fd6-4cb8-acdd-199636e3eb89&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/main.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3Cl6RGPlFxaRZz82hHID5oVyQQA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "Python.main_industrial_changeover.executor": "Run",
+    "Python.plot_ablation_benchmark_runs.executor": "Run",
+    "Python.plot_ablation_training_curves.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Python project/HGNN_Fluid_LWH_case_changeovertime/result/industrial_changeover_model",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "DSTables",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python project\HGNN_Fluid_LWH_case_changeovertime\result\industrial_changeover_model" />
+      <recent name="D:\Python project\HGNN_Fluid_LWH_case_changeovertime" />
+      <recent name="D:\Python project\HGNN_Fluid_LWH\result\dslfmae_table13_like" />
+      <recent name="D:\Python project\HGNN_Fluid_LWH" />
+      <recent name="D:\Python project\HGNN_Fluid_LWH\result\ablation_suite\ablation_no_reward_scale" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="HGNN_Fluid_LWH" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.178" />
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="bae95372-2de4-4be1-92ea-47929d2d3091" name="更改" comment="" />
+      <created>1776947799890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776947799890</updated>
+      <workItem from="1776947801049" duration="12408000" />
+      <workItem from="1777100850434" duration="2635000" />
+      <workItem from="1777109250885" duration="73553000" />
+      <workItem from="1778219133921" duration="97000" />
+      <workItem from="1778219389859" duration="2910000" />
+      <workItem from="1778311346004" duration="4989000" />
+    </task>
+    <task id="LOCAL-00001" summary="初版24个算例训练轮询">
+      <option name="closed" value="true" />
+      <created>1776950210529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776950210529</updated>
+    </task>
+    <task id="LOCAL-00002" summary="初版24个算例训练轮询.第一版结果">
+      <option name="closed" value="true" />
+      <created>1777100814704</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1777100814704</updated>
+    </task>
+    <task id="LOCAL-00003" summary="24个算例ca，cb结果，没有Tcpu">
+      <option name="closed" value="true" />
+      <created>1777272978313</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1777272978313</updated>
+    </task>
+    <task id="LOCAL-00004" summary="24个算例有Tcpu，但是ca和cb一样，因为是argmax选的">
+      <option name="closed" value="true" />
+      <created>1777275924977</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1777275924977</updated>
+    </task>
+    <task id="LOCAL-00005" summary="24个算例有Tcpu，但是ca和cb一样，因为是argmax选的">
+      <option name="closed" value="true" />
+      <created>1777276151356</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1777276151356</updated>
+    </task>
+    <task id="LOCAL-00006" summary="p1-p24的ca，cb，Tcpu">
+      <option name="closed" value="true" />
+      <created>1777279749172</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1777279749172</updated>
+    </task>
+    <task id="LOCAL-00007" summary="第一版工业实例数据，甘特图太稀疏了">
+      <option name="closed" value="true" />
+      <created>1777366334700</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1777366334700</updated>
+    </task>
+    <task id="LOCAL-00008" summary="第二版工业实例数据，甘特图出版能用">
+      <option name="closed" value="true" />
+      <created>1777372402366</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1777372402366</updated>
+    </task>
+    <task id="LOCAL-00009" summary="第二版工业实例数据，甘特图出版能用">
+      <option name="closed" value="true" />
+      <created>1777372454165</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1777372454165</updated>
+    </task>
+    <task id="LOCAL-00010" summary="训练的visdom收敛图">
+      <option name="closed" value="true" />
+      <created>1777373086860</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1777373086860</updated>
+    </task>
+    <task id="LOCAL-00011" summary="三个的消融实验">
+      <option name="closed" value="true" />
+      <created>1777860902839</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1777860902839</updated>
+    </task>
+    <task id="LOCAL-00012" summary="三个消融实验与baseline的对比训练收敛曲线+30次验证曲线（没用）">
+      <option name="closed" value="true" />
+      <created>1778049821575</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1778049821575</updated>
+    </task>
+    <task id="LOCAL-00013" summary="自己的数据训练，dslfame数据，训练得到训练的表13和图片，没有验证">
+      <option name="closed" value="true" />
+      <created>1778207290365</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1778207290365</updated>
+    </task>
+    <task id="LOCAL-00014" summary="自己的数据训练，dslfame数据，训练得到训练的表13和图片，没有验证（忘记把原始代码文件加进去了）">
+      <option name="closed" value="true" />
+      <created>1778207339829</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1778207339829</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初版24个算例训练轮询" />
+    <MESSAGE value="初版24个算例训练轮询.第一版结果" />
+    <MESSAGE value="24个算例ca，cb结果，没有Tcpu" />
+    <MESSAGE value="24个算例有Tcpu，但是ca和cb一样，因为是argmax选的" />
+    <MESSAGE value="p1-p24的ca，cb，Tcpu" />
+    <MESSAGE value="第一版工业实例数据，甘特图太稀疏了" />
+    <MESSAGE value="第二版工业实例数据，甘特图出版能用" />
+    <MESSAGE value="训练的visdom收敛图" />
+    <MESSAGE value="三个的消融实验" />
+    <MESSAGE value="三个消融实验与baseline的对比训练收敛曲线+30次验证曲线（没用）" />
+    <MESSAGE value="自己的数据训练，dslfame数据，训练得到训练的表13和图片，没有验证" />
+    <MESSAGE value="自己的数据训练，dslfame数据，训练得到训练的表13和图片，没有验证（忘记把原始代码文件加进去了）" />
+    <option name="LAST_COMMIT_MESSAGE" value="自己的数据训练，dslfame数据，训练得到训练的表13和图片，没有验证（忘记把原始代码文件加进去了）" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HGNN_Fluid_LWH_case_changeovertime$main_industrial_changeover.coverage" NAME="main_industrial_changeover 覆盖结果" MODIFIED="1778398219667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HGNN_Fluid_LWH$main.coverage" NAME="main 覆盖结果" MODIFIED="1778207552870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HGNN_Fluid_LWH$plot_ablation_training_curves.coverage" NAME="plot_ablation_training_curves 覆盖结果" MODIFIED="1778049288113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HGNN_Fluid_LWH$plot_ablation_benchmark_runs.coverage" NAME="plot_ablation_benchmark_runs 覆盖结果" MODIFIED="1778048382220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

@@ -1,0 +1,5 @@
+﻿variant_name,variant_label,history_root,exists
+baseline,FINDRL,.\result\round_robin_24cases\per_instance,1
+ablation_no_zero_mask,FINDRL-NM,.\result\ablation_suite\ablation_no_zero_mask\per_instance,1
+ablation_no_fluid_state,FINDRL-NS,.\result\ablation_suite\ablation_no_fluid_state\per_instance,1
+ablation_no_reward_scale,FINDRL-NR,.\result\ablation_suite\ablation_no_reward_scale\per_instance,1

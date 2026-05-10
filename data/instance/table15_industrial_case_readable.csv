@@ -1,0 +1,22 @@
+﻿Job type,kind_index,Operation node,STEPSEQ,Operation name (EN),Available machines (machine_index(time_min)),n_machines
+JC,0,1,134800,Wet Process (Wet Etching/Cleaning) - Batch Processing,"M0(73), M5(74), M6(135), M4(158)",4
+JC,0,2,135100,Diffusion Furnace - Batch Processing,"M10(109), M9(109), M8(110), M11(110)",4
+JC,0,3,136300,Photolithography (Lithography) - Single Lot,"M13(37), M8(38), M5(40), M1(48)",4
+JC,0,4,140500,Dry Etching - Single Lot,"M18(19), M9(20), M3(40), M8(46)",4
+JC,0,5,142900,Wet Process (Wet Etching/Cleaning) - Batch Processing,"M0(91), M4(156)",2
+JC,0,6,143200,Diffusion Furnace - Batch Processing,"M8(86), M7(86), M11(86)",3
+JC,0,7,143300,Ion Implantation - Single Lot,"M4(90), M11(91), M2(92), M7(125)",4
+JC,0,8,144400,Diffusion Furnace - Batch Processing,"M3(159), M14(159), M0(159), M5(161)",4
+TC,1,1,129700,Dry Etching - Single Lot,"M18(12), M9(18), M3(38), M8(54)",4
+TC,1,2,132100,Wet Process (Wet Etching/Cleaning) - Batch Processing,"M0(75), M5(104), M6(137), M4(164)",4
+TC,1,3,132400,Diffusion Furnace - Batch Processing,"M4(115), M15(115), M14(115)",3
+TC,1,4,133600,Photolithography (Lithography) - Single Lot,"M16(31), M13(35), M1(46)",3
+TC,1,5,140200,Wet Process (Wet Etching/Cleaning) - Batch Processing,"M0(75), M5(106), M6(122), M4(169)",4
+TC,1,6,140500,Diffusion Furnace - Batch Processing,"M4(82), M12(82), M1(82), M8(83)",4
+TC,1,7,140600,Ion Implantation - Single Lot,"M17(57), M2(58), M15(102)",3
+TC,1,8,141700,Diffusion Furnace - Batch Processing,"M4(156), M1(157), M19(160)",3
+WC,2,1,50,Photolithography (Lithography) - Single Lot,"M7(9), M17(25), M10(30), M12(59)",4
+WC,2,2,100,Dry Etching - Single Lot,"M2(8), M11(15), M5(20), M8(34)",4
+WC,2,3,150,Dry Etching - Single Lot,"M17(3), M11(11), M3(11), M4(89)",4
+WC,2,4,200,Wet Process (Wet Etching/Cleaning) - Single Lot,"M3(2), M10(8), M13(10), M12(74)",4
+WC,2,5,250,Thin Film (Module TF2) - Single Lot,"M16(2), M18(9), M11(20)",3
